@@ -1,0 +1,8 @@
+streamlit==1.38.0
+pandas
+numpy
+scikit-learn
+plotly
+google-cloud-bigquery
+db-dtypes
+google-auth 
